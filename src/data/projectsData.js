@@ -1,7 +1,6 @@
-import one from "../assets/svg/projects/weather.jpg";
+import one from "../assets/svg/projects/weather.png";
 import two from "../assets/svg/projects/social.login.png";
 import three from "../assets/svg/projects/portfolio.png";
-// Umjesto ovo one two three stavi slike svojih projekata
 
 export const projectsData = [
   {
@@ -28,7 +27,7 @@ export const projectsData = [
     projectDesc: "Welcome!",
     tags: ["React", "SASS"],
     code: "GITHUB LINK",
-    demo: "LINK NA STRANICU",
+    demo: "https://www.midjanbegic.com/",
     image: three,
   },
 ];
