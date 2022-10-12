@@ -10,6 +10,7 @@ export const projectsData = [
       "This is my first project in which the JavaScript language was used. The project is based on weather forecasting",
     tags: ["JavaScript"],
     code: "https://github.com/midjanbegic/Weather-app",
+    demo: "https://mbweather-app.netlify.app/",
     image: one,
   },
   {
