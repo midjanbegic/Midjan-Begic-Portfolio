@@ -45,5 +45,3 @@ export const servicesData = [
     },
 
 ]
-
-// Ukloni importe koje neces koristiti ovo sam bzvz kopirao s neta, pa ubaci sta ti godi..
