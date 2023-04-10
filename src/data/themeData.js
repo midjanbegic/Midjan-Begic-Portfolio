@@ -7,6 +7,3 @@ import {
 export const themeData = {
     theme: orangeThemeDark
 }
-
-
-// Mozes ovdje odabrati temu, ja sam htio ubaciti da se moze na UI to uraditi, ali nisam stigao
