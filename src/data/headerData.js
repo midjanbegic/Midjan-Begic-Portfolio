@@ -1,5 +1,5 @@
 import resume from '../assets/pdf/resume.pdf'
-import portret from '../assets/svg/about/portret.svg'
+import portret from '../assets/svg/about/portret.jpg'
 
 export const headerData = {
     name: 'Midjan Begic',
