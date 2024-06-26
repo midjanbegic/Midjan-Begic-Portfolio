@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "Hi there! my name is Midjan Begic. I am aself-taught front-end Developer.",
-    description2: "I specialize in JavaScript and React. In the future I want to be a Full Stack Developer, that is why I study Node JS in my spare time. Other than programming my passions in life are Bike Rides, Mountain climbing, Skiing and video games.",
+    description1: "Hi there! my name is Midjan Begic.",
+    description2: "As an experienced frontend developer with a strong background in C# technology, I specialize in creating responsive and interactive web applications. My work encompasses developing intuitive user interfaces, optimizing performance, and implementing best practices in software development. I am dedicated to continuous learning and improving my skills to stay updated with the latest technology trends. With my C# experience, I bring additional value to projects through the integration of backend and frontend solutions. I am passionate about delivering top-notch user experiences and high-quality products.",
     image: 2
 }

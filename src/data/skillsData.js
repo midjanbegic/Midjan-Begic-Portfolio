@@ -5,5 +5,8 @@
     'Bootstrap',
     'React',
     'Node JS',
-    'GIT'
+    'GIT',
+    'Express',
+    'MongoDB',
+    'Azure',
 ]
