@@ -6,7 +6,7 @@ import bootstrap from '../assets/svg/skills/bootstrap.svg'
 import git from '../assets/svg/skills/git.svg'
 import node from '../assets/svg/skills//node.svg'
 import azure from '../assets/svg/skills/azure.svg'
-import mongodb from '../assets/svg/skills/mongodb.svg'
+import mongodb from '../assets/svg/skills/MongoDB.svg'
 import express from '../assets/svg/skills/express.svg'
 
 
