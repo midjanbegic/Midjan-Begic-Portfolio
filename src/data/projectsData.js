@@ -1,6 +1,7 @@
 import one from "../assets/svg/projects/weather.png";
 import two from "../assets/svg/projects/netflix.png";
 import three from "../assets/svg/projects/portfolio.png";
+import four from "../assets/svg/projects/crud-ems.png";
 
 export const projectsData = [
   {
@@ -20,6 +21,14 @@ export const projectsData = [
     code: "https://github.com/midjanbegic/Midjan-Begic-Portfolio",
     demo: "midjanbegic.com",
     image: three,
+  },
+  {
+    id: 3,
+    projectName: "CRUD-Employeems",
+    projectDesc: "EMS CRUD projects",
+    tags: ["React", "Express", "MongoDB"],
+    code: "https://github.com/midjanbegic/CRUD",
+    image: four,
   },
   {
     id: 1,
