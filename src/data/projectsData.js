@@ -39,5 +39,5 @@ export const projectsData = [
     code: "https://github.com/midjanbegic/Weather-app",
     demo: "https://mbweather-app.netlify.app/",
     image: one,
-  },
+  }
 ];
